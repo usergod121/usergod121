@@ -1,16 +1,18 @@
-## Hi there 👋
+# 大家好！我是 human 👋
 
-<!--
-**usergod121/usergod121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+目前正在系统性地学习计算机基础知识，会在这里记录我的学习过程、开源项目和技术笔记。
 
-Here are some ideas to get you started:
+曾获 **ACM-ICPC 亚洲区域赛铜奖**，算法竞赛退役后依然保持刷题习惯。现阶段主要在学习数据库、后端框架，同时也在探索 AI 应用开发，后面会陆续开源一些相关的项目。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+平时喜欢打游戏和看漫画，算是学习之余的放松方式。
+
+## 在这里你会看到
+
+- 📝 **算法题解**：退役后的刷题记录和比赛总结
+- 📚 **学习笔记**：计算机基础和后端知识的整理
+- 🔧 **开源项目**：正在学习和开发中的项目
+- 🤖 **AI 探索**：skill、MCP 等 AI 应用的学习记录
+
+## 联系我
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:80129264@qq.com)
